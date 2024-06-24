@@ -1,0 +1,5 @@
+# ignore all files at directory named 'data'
+data/
+
+# ignore all files at directory named 'venv'; virtual envrionment
+venv/
